@@ -3,14 +3,14 @@
 ## 1.Introduction
 
 Image classification pipeline based on PyTorch, the training framework uses `Pytorch-Base-Trainer (PBT)`.
-**Due to github rules, files larger than 25MB cannot be uploaded. For convenience, please download the complete code here https://pan.baidu.com/s/1mNB1IH4Rv-sVrb47Pt47rg PIN:6666**
+Due to github rules, files larger than 25MB cannot be uploaded. For convenience, **please download the complete code here https://pan.baidu.com/s/1mNB1IH4Rv-sVrb47Pt47rg PIN:6666**
 
 - Github: Pytorch-Base-Trainer: [Pytorch distributed training framework](https://github.com/PanJinquan/Pytorch-Base-Trainer)
 - pip install package： [basetrainer](https://pypi.org/project/basetrainer/)
 - Pytorch basic training library: Pytorch-Base-Trainer(Support model pruning and distributed training)[Tutorial](https://panjinquan.blog.csdn.net/article/details/122662902)
 
 
-## 2.安装
+## 2.Install
 - Depends on Python packages: [requirements.txt](./requirements.txt)
 
 ```bash
